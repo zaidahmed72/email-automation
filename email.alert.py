@@ -6,8 +6,8 @@ smtp_server = 'smtp.gmail.com'
 port = 587
 
 sender_email = 'rkahmad987@gmail.com'
-receiver_email = 'rkahmad987@gmail.com'
-password = 'qyqnyofkjyehpzez'   # ⚠️ yaha apna App Password daalo
+receiver_email = 'rkahmad987@gmail.com+'
+password = 'yourpassword'   # ⚠️ yaha apna App Password daalo
 
 # Message
 message = "sorry"
