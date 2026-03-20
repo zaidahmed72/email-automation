@@ -7,7 +7,7 @@ port = 587
 
 sender_email = 'rkahmad987@gmail.com'
 receiver_email = 'rkahmad987@gmail.com+'
-password = 'yourpassword'   # ⚠️ yaha apna App Password daalo
+password = 'yourpassword'   
 
 # Message
 message = "sorry"
